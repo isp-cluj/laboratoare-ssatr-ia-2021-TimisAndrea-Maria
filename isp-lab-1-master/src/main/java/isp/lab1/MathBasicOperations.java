@@ -23,6 +23,9 @@ public class MathBasicOperations {
     public static int substract(int x, int y){
         return x-y;
     }
+public static int multipy(int x, int y){
+        return x*y;
+    }
 
     public static void main(String[] args) {
         System.out.println("It works!");
